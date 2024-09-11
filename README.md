@@ -75,11 +75,3 @@ Run the test suite to ensure everything is working correctly:
     python manage.py test
 
 
-
-
-
-
-
-
-
-# UE_test_task
